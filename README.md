@@ -2,7 +2,7 @@
 ## Mini-Project
 ##### A Database management system that maintains the day to day data that flows in a typical Bank
 <hr>
-## Objective
+<h2> Objective </h2>
 The objective of this project is to design an good, efficient and a centralised Database management
 system for a typical bank with multiple branches in different locations. We hope to create a flawless
 and user friendly database management system. This Database management system is made using
